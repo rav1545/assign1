@@ -276,7 +276,7 @@ In this case, we want to pull into the `master` branch of the original repositor
 You can click the drop-down boxes to make this happen.
 After you make all your selections, you should see something like the following:
 ![pull request settings](readme_files/pull_request_2.png)
-
+Looks better
 From here, click the green `Create pull request` button.
 This will open a page where you can name your pull request, and give it a description.
 Your name and description should concisely describe the changes you've made.
